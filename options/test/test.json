@@ -9,14 +9,14 @@
     "test_1": { 
       "name": "GoPro"
       , "mode": "BlurrySharp"
-      , "dataroot_HR": "/home/zhangkaihao/dataset/deblur/GOPRO_Large_all/ori/new_file/test/sharp"
-      , "dataroot_LR": "/home/zhangkaihao/dataset/deblur/GOPRO_Large_all/ori/new_file/test/blurry"
+      , "dataroot_HR": "/content/test/GOPR0384_11_00/sharp"
+      , "dataroot_LR": "/content/test/GOPR0384_11_00/blur"
     }
   }
 
   , "path": {
-    "root": "/home/zhangkaihao/Documents/pytorch/mytest/makeblur_tencent_3_v2_test/"
-    , "pretrain_model_G": "../experiments/G.pth"
+    "root": "/content/Deblurring-by-Realistic-Blurring"
+    , "pretrain_model_G": "experiments/G.pth"
   }
 
   , "network_G": {
