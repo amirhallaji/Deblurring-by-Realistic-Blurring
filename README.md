@@ -5,7 +5,7 @@ __Models, dataset, results__
 
 
 ```
-Pre-trained model: https://drive.google.com/file/d/1uifaovTlmFExO9d2rOmcr5w7uUSLjHWK/view
+Google Colab code: https://colab.research.google.com/drive/1VbgdZbz3pjotYo2tPdLftCNfjFJZMnp0?usp=sharing
 
 RWBI-dataset: https://drive.google.com/file/d/1fHkPiZOvLQSc4HhT8-wA6dh0M4skpTMi/view
 
@@ -21,8 +21,6 @@ __For model testing__
 ```
 sh test.sh
 ```
-
-
 
 ## Citation
 If you think this work is useful for your research, please cite the following paper.
